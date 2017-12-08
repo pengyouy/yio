@@ -2,26 +2,26 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>ÎŞ±êÌâÎÄµµ</title>
+<title>æ— æ ‡é¢˜æ–‡æ¡£</title>
 <script>
 function tt(){
 	var x;
 var d=new Date().getDay(); 
 switch (d) 
 { 
-  case 0:x="½ñÌìÊÇĞÇÆÚÈÕ"; 
+  case 0:x="ä»Šå¤©æ˜¯æ˜ŸæœŸæ—¥"; 
   break; 
-  case 1:x="½ñÌìÊÇĞÇÆÚÒ»"; 
+  case 1:x="ä»Šå¤©æ˜¯æ˜ŸæœŸä¸€"; 
   break; 
-  case 2:x="½ñÌìÊÇĞÇÆÚ¶ş"; 
+  case 2:x="ä»Šå¤©æ˜¯æ˜ŸæœŸäºŒ"; 
   break; 
-  case 3:x="½ñÌìÊÇĞÇÆÚÈı"; 
+  case 3:x="ä»Šå¤©æ˜¯æ˜ŸæœŸä¸‰"; 
   break; 
-  case 4:x="½ñÌìÊÇĞÇÆÚËÄ"; 
+  case 4:x="ä»Šå¤©æ˜¯æ˜ŸæœŸå››"; 
   break; 
-  case 5:x="½ñÌìÊÇĞÇÆÚ5"; 
+  case 5:x="ä»Šå¤©æ˜¯æ˜ŸæœŸ5"; 
   break; 
-  case 6:x="½ñÌìÊÇĞÇÆÚ6"; 
+  case 6:x="ä»Šå¤©æ˜¯æ˜ŸæœŸ6"; 
   break; 
 }
 document.getElementById("div1").innerHTML=x;
@@ -34,3 +34,4 @@ document.getElementById("div1").innerHTML=x;
 <input id="btn1" type="button" value="123" onClick="tt()">
 </body>
 </html>
+...
