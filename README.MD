@@ -19,7 +19,7 @@ switch (d)
   break; 
   case 4:x="今天是星期四"; 
   break; 
-  case 5:x="今天是星期五"; 
+  case 5:x="今天是星期5"; 
   break; 
   case 6:x="今天是星期6"; 
   break; 
