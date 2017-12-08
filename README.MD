@@ -21,7 +21,7 @@ switch (d)
   break; 
   case 5:x="今天是星期五"; 
   break; 
-  case 6:x="今天是星期六"; 
+  case 6:x="今天是星期6"; 
   break; 
 }
 document.getElementById("div1").innerHTML=x;
